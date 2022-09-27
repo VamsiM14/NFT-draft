@@ -1,5 +1,5 @@
 # NFT-draft
-Draft webpage for the new NFT project
+Draft webpage for a new NFT project
 
 Free images credits. Thanks to:
 
